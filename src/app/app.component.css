@@ -1,0 +1,10 @@
+.main-content-background {
+    background-image: url('../assets/background.jpg');
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    filter: blur(0.5rem);
+    position: absolute;
+    width: 100%;
+    z-index: -1;
+}

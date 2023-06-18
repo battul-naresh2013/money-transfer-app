@@ -1,0 +1,13 @@
+header{
+    background-color: white;
+    min-height: 3.1rem;
+    border-bottom: 1px solid #f3e9e9;
+}
+.frontend-text {
+    margin-left: 2rem;
+    color: #23a53f;
+    float: right;
+  }
+.head {
+    padding: 10px;
+}
